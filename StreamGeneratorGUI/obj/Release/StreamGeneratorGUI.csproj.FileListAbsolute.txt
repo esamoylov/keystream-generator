@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\bin\Release\StreamGeneratorGUI.exe
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\bin\Release\StreamGeneratorGUI.pdb
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.Form1.resources
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.FormAbout.resources
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.Properties.Resources.resources
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.exe
+C:\Users\User\source\repos\StreamGeneratorGUI\StreamGeneratorGUI\obj\Release\StreamGeneratorGUI.pdb
